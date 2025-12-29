@@ -7,7 +7,7 @@ export function Sidebar({
   className = ''
 }: SidebarProps) {
   const navItems = [{
-    name: 'Status',
+    name: 'Dashboard',
     icon: <LayoutGrid className="w-5 h-5" />,
     active: true
   }, {
