@@ -8,7 +8,7 @@ export function Header() {
         </button>
         <div>
           <h1 className="text-lg font-semibold text-white flex items-center gap-2">
-            Station: Hillside-04
+            Dashboard
             <Wifi className="w-4 h-4 text-emerald-500" />
           </h1>
         </div>
